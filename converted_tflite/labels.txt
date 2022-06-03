@@ -1,0 +1,3 @@
+0 senggang
+1 sedang
+2 padat
