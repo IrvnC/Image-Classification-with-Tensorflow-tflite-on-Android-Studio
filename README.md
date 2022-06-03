@@ -6,3 +6,6 @@ Step per step
 2. import tensorflow lite model to android studio (if use custom another model) File>New>Other>TensorflowLiteModel
 3. copy activity_main.xml, MainActivity.java, AndroidManifest.xml to your file
 4. if u use your custom another model u can coustomize "classifyImage" function on MainActivity.java by changing the variable by calling the new tflite file you are using and you must customize global variable "imageSize" on MainActivity.java by the image size you use in your tflite model
+
+
+If u want to build your customize model and your customize datasets, u can open the tensorflow model folder and read the readme.md file for reference
